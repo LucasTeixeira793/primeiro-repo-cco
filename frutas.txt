@@ -1,8 +1,12 @@
 A:
 Abacaxi
+Amora
 
 B:
 Banana
 
 M:
 Melancia
+Maçã 
+Mamão
+Morango
