@@ -1,6 +1,5 @@
 A:
 Abacaxi
-Amora
 
 ACARAJÉ DE ABACATE É BOM
 
@@ -10,5 +9,4 @@ Banana
 M:
 Melancia
 Maçã 
-Mamão
 Morango
