@@ -1,0 +1,7 @@
+A:
+Abacaxi
+
+B:
+Banana
+
+M:Maçã
